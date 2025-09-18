@@ -1,0 +1,6 @@
+.cache/
+*~
+*#
+bfc
+compile_commands.json
+add.bf
